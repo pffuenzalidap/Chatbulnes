@@ -1,0 +1,57 @@
+{
+  "preguntas_frecuentes": [
+    {
+      "categoria": "Prevención de Caídas",
+      "pregunta_principal": "¿Qué tipo de calzado debe usar la persona a mi cuidado?",
+      "sinonimos": [
+        "¿Que zapato es mejor para evitar una caida en la casa?",
+        "zapatos"
+      ],
+      "respuesta": "Deben usar zapatos cerrados, con suela antideslizante y buen soporte. Evita pantuflas sueltas o con suela lisa."
+    },
+    {
+      "categoria": "Prevención de Caídas",
+      "pregunta_principal": "¿Qué hacer si la persona se resbala o cae?",
+      "sinonimos": [
+        "caida",
+        "se cayo",
+        "golpe en el suelo",
+        "accidente baño"
+      ],
+      "respuesta": "Evita tratar de sostener todo el peso con la espalda. Intenta controlar la caída hacia una superficie blanda. Si hay dolor, no lo muevas."
+    },
+    {
+      "categoria": "Hipoglicemiantes",
+      "pregunta_principal": "¿Cómo debo tratarme si tengo hipoglucemia o se me baja el azúcar?",
+      "sinonimos": [
+        "azucar baja",
+        "hipoglucemia",
+        "me siento mareado",
+        "sudor frio"
+      ],
+      "respuesta": "Si está consciente, aplique la regla de los 15: consuma 15g de azúcar rápida (ej. jugo) y espere 15 minutos para volver a medir la glucosa."
+    },
+    {
+      "categoria": "Hipoglicemiantes",
+      "pregunta_principal": "¿Qué pasa si me administro más dosis de insulina de la indicada?",
+      "sinonimos": [
+        "mucha insulina",
+        "doble dosis",
+        "me pinche de mas"
+      ],
+      "respuesta": "Monitorea tu nivel de azúcar. Si está debajo de 70 mg/dL consume azúcar rapidamente (jugo o dulce). Si tiene síntomas graves (sudoración, confusión), busca ayuda médica inmediata."
+    },
+    {
+      "categoria": "Anticoagulantes",
+      "pregunta_principal": "¿Qué hacer si olvido tomar mi dosis habitual de anticoagulante?",
+      "sinonimos": [
+        "olvide dosis",
+        "me pase la hora",
+        "no tome el taco",
+        "warfarina olvido",
+        "olvide dosis del taco"
+      ],
+      "respuesta": "Tome la siguiente dosis de acuerdo a su horario regular. NUNCA duplique la dosis para compensar la que ya no se tomó."
+    }
+  ]
+}
